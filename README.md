@@ -50,7 +50,8 @@ We use [StreamYard](https://streamyard.com) as our livestream platform. The plat
 All [you need](https://support.streamyard.com/hc/en-us/articles/360043291612-Guest-instructions) is a modern browser, with a proper internet connection, a microphone, webcam, and headphones. We highly suggest you use headphones/earphones so there's no echo happening due to the microphone picking audio from the livestream.
 
 [![Screenshot of StreamYard configurations](img/streamyard.png)](https://youtu.be/H6YXleBZVRU)
-_Click on the image for a small video showing how to configure StreamYard_
+
+_Click on the image for [a small video](https://youtu.be/H6YXleBZVRU) showing how to configure StreamYard_
 
 When asked to enter your name: you can either add your full name or just your first one, whatever floats your boat. We only ask that if you are using Twitter, to add ` | @username` after your name. Lastly, be sure that in `Settings` > `Camera`, the `Camera resolution` combobox has `Full High Definition (1080p)` selected, for best video quality.
 
