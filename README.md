@@ -1,6 +1,6 @@
 # Kubefirst Live
 
-![Kubefirst Logo](img/kubefirst-light.svg#gh-light-mode-only)![Kubefirst Logo](img/kubefirst-dark.svg#gh-dark-mode-only)
+![Kubefirst Logo](img/kubefirst-light.svg#gh-dark-mode-only)![Kubefirst Logo](img/kubefirst-dark.svg#gh-light-mode-only)
 
 We have a [biweekly livestream](https://www.youtube.com/@kubefirst) named Kubefirst Live, where we are discussing not only kubefirst but anything cloud native.
 
