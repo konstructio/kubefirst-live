@@ -53,8 +53,7 @@ To ensure the preparation and the livestream go well, we'll need some things fro
 2. The logo of your product or company in SVG format. If you don't have it, any other vector format will do.
 3. Your Twitter username if you are on the platform, and the one for your company or product: we will tag you and the company or product one when doing the promotion on Twitter.
 4. Your LinkedIn profile URL as well as your company one, if any: we will also tag you and the company or product one when doing the promotion on LinkedIn.
-5. We will use the title listed on your LinkedIn profile: if you want us to write something different, let us know.
-6. What URL you would like us to share in banner format during the show. It's usually your website, GitHub repository, social media accounts, Slack or Discord community, documentation... or anything that will point the viewers to anywhere you want them to go during or after the show.
+5. What URL you would like us to share in banner format during the show. It's usually your website, GitHub repository, social media accounts, Slack or Discord community, documentation... or anything that will point the viewers to anywhere you want them to go during or after the show.
 
 ### Platform
 
