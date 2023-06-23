@@ -45,6 +45,16 @@ Once we agree on a date, we will send you two meetings request: one for the live
 
 You do not have to learn how kubefirst is working as we will take care of making work your product on our platform, and will let you know if we have any issues or questions. Still, it would be a good idea to [learn a little about our platform](https://docs.kubefirst.io) before the show. What you need to prepare is some slides, if you need them, for the part where you'll share about your product (see the [Format section](#format) for more information on that). The week of the livestream, we'll share with you the slides we'll use (we use Google Slides, so you'll need a Google account to edit them), in which you'll have a section to add yours. If you prefer, you can use your own slides: no worries, we'll just switch the screen to yours once it's your turn.
 
+#### What we need from you
+
+To ensure the preparation and the livestream go well, we'll need some things from you:
+
+1. A high-quality picture of you: we will use it to create the livestream promotion, and on the first slide of the livestream material.
+2. The logo of your product or company in SVG format. If you don't have it, any other vector format will do.
+3. Your Twitter username if you are on the platform, and the one for your company or product: we will tag you and the company or product one when doing the promotion on Twitter.
+4. Your LinkedIn profile URL as well as your company one, if any: we will also tag you and the company or product one when doing the promotion on LinkedIn.
+5. What URL you would like us to share in banner format during the show. It's usually your website, GitHub repository, social media accounts, Slack or Discord community, documentation... or anything that will point the viewers to anywhere you want them to go during or after the show.
+
 ### Platform
 
 We use [StreamYard](https://streamyard.com) as our livestream platform. The platform will stream the show on Kubefirst [YouTube channel](https://www.youtube.com/@kubefirst), [Twitter](https://twitter.com/kubefirst) account, [LinkedIn](https://www.linkedin.com/company/kubefirst/) page, [Twitch](https://www.twitch.tv/kubefirst) channel, and on [Kubeshop YouTube channel](https://www.youtube.com/@thekubeshop) (our parent company). You'll receive the link a couple of days before the livestream: you should open it to test everything is working. You'll need to give permission access to your webcam and microphone.
