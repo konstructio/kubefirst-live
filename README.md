@@ -16,6 +16,7 @@ Firstly, we want you to have fun! It's important for us that you have a good tim
 - [Preparations](#preparations)
 - [Platform](#platform)
 - [Promotion](#promotion)
+- [During the Show](#during-the-show)
 - [Tips](#tips)
 - [Anything else?](#anything-else)
 
@@ -59,6 +60,20 @@ When asked to enter your name: you can either add your full name or just your fi
 ### Promotion
 
 A couple of days before the stream, we will share on our [Twitter account](https://twitter.com/kubefirst), [LinkedIn page](https://www.linkedin.com/company/kubefirst/), [Slack community](https://kubefirst.io/slack), and in other related communities. We will tag your company. To help us spread the words, a retweet and reshare with your company's social media or even your personal ones are more than welcome.
+
+### During the Show
+
+As mentioned before, you will receive an invitation for the pre-livestream. It is where we'll ensure audio, video, screen share, and font size are correct. We can also discuss some last-minute questions you may have. At the time the show is starting, we will put a 30-second countdown: during that time, microphones will be muted automatically, and unmuted automatically once the countdown is finished. At that point, the show is a go, with the host welcoming people, and introducing the topic. We'll introduce the kubefirst team first, and will welcome you to the show, at which point, you can introduce yourself in any way you want.
+
+At any time during the livestream, you are welcome, and strongly encouraged)to interject, comment or ask questions. We will do the same when you talk about your product or demo something. It's hard in a livestream to find the perfect moment to say something, so don't be afraid to cut someone mid-sentence: we'll do the same.
+
+During the show, we will display some banners with different information about our livestreams, recordings of past ones, our different social media accounts, websites, and asking the audience for questions or comments. We will do our best to prepare some banners for your projects, but to ensure we have the right information to share, let us know in advance what links you would like us to promote.
+
+![An example of a question from a viewer](img/audience-question.png)
+
+Since we are live, we may get questions from the audience. If we do, we will display them (as shown in the above screenshot), and read them out loud before we let you answers them. It's perfectly fine if you don't know the answer. It's important not to bullshit your way through it as a way to save face. Nobody knows everything, it's fine! When it's the case, we tell the person we will follow up with them after the show. Don't sweat this.
+
+Lastly, we try to keep things fun, and one way to do that is by using some audio sounds once in a while. They are also useful to diminish the severity of a failed demos or to pass time when something is taking too long: it brings the audience, and our focus on something else. They are usually funny ones: like [Darth Vader famous Noooooo](https://www.youtube.com/watch?v=WWaLxFIVX1s) when something goes wrong or [Ba Dum Tss sound effect](https://www.youtube.com/watch?v=ObpcGNCU944) when someone is making a really bad joke.
 
 ## Tips
 
