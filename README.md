@@ -93,6 +93,7 @@ The previous items were specific to your participation to our livestream. We als
 - Reboot your machine: it ensures things will run smoothly.
 - Close all unneeded applications: it frees up some memory, and CPU, which will be needed for the video, and may make any demos faster.
 - If you will use the browser for showing or demo something, close all unneeded the tabs: it ensures the viewers are focusing on the right thing, and free up resources.
+- Zoom your browser tabs as when the page is text heavy, it may not show well (i.e.: viewing a GitHub repository content in the browser).
 - Zoom the font in your IDE, terminal, and anything text-based so it shows well on any viewers' screen.
 - As mentioned in the [Platform section](#platform), use earphones or headphones to prevent audio feedback. To check the audio quality of your microphone, use this [free tool from Adobe](https://podcast.adobe.com/miccheck).
 - Ensure the lightning is good which may mean to close the blinds so there's no sun reflections on the webcam, open your ceiling lights even if it's daytime or anything else that can help you see your face properly.
