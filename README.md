@@ -101,6 +101,7 @@ The previous items were specific to your participation to our livestream. We als
 - Do the same with your phone, or at a minimum, put it on vibration. If you do the latter, don't leave it on the desk to prevent vibrations noises.
 - If you are not living alone or are at the office, find a room where you can be alone, and close the door if possible. It will also be better for them. With that said, if your kids or animals want to be on the show, we're good with that!
 - If your demo is complicated, require multiple steps, is too long, or if you think something could go wrong, for whatever reasons, prepare a final version with the end result as a safeguard. An example, when we want to show how to create an AWS cluster with kubefirst, we will show how to get started, but because the full process is about 25 minutes (multiple resources are needed on AWS to create a production-ready Kubernetes cluster), we will have another cluster already created.
+- If you are using macOS Sonoma or later version, you should [deactivate the reactions feature](https://support.apple.com/en-ca/105117#reactions).
 
 ## Anything else?
 
