@@ -1,8 +1,8 @@
-# Kubefirst Live
+# kubefirst Live
 
-![Kubefirst Logo](img/kubefirst-light.svg#gh-dark-mode-only)![Kubefirst Logo](img/kubefirst-dark.svg#gh-light-mode-only)
+![kubefirst Logo](img/kubefirst-light.svg#gh-dark-mode-only)![kubefirst Logo](img/kubefirst-dark.svg#gh-light-mode-only)
 
-We have a [biweekly livestream](https://www.youtube.com/@kubefirst) named Kubefirst Live, where we are discussing not only kubefirst but anything cloud native.
+We have a [biweekly livestream](https://www.youtube.com/@kubefirst) named kubefirst Live, where we are discussing not only kubefirst but anything cloud native.
 
 Here are some guidelines for our guests.
 
@@ -26,7 +26,7 @@ The goal of the livestream is simple: we want to create valuable, fun, and educa
 
 ### Ambiance
 
-If you don't know us much yet, we are a bunch of happy people doing something we love. We are tackling serious problems in the cloud native space, without taking ourselves seriously. Kubefirst Live is no different: we are laid back. Do not stress out, it will be a fun discussion between friends. Demos may go wrong; that's OK. Internet connections may be flaky: that's OK. You may forget to say something important: that's OK. That's real life, so again, let's have fun, and things will be good.
+If you don't know us much yet, we are a bunch of happy people doing something we love. We are tackling serious problems in the cloud native space, without taking ourselves seriously. kubefirst Live is no different: we are laid back. Do not stress out, it will be a fun discussion between friends. Demos may go wrong; that's OK. Internet connections may be flaky: that's OK. You may forget to say something important: that's OK. That's real life, so again, let's have fun, and things will be good.
 
 ### Format
 
@@ -58,7 +58,7 @@ To ensure the preparation and the livestream go well, we'll need some things fro
 
 ### Platform
 
-We use [StreamYard](https://streamyard.com) as our livestream platform. The platform will stream the show on Kubefirst [YouTube channel](https://www.youtube.com/@kubefirst), [Twitter](https://twitter.com/kubefirst) account, [LinkedIn](https://www.linkedin.com/company/kubefirst/) page, [Twitch](https://www.twitch.tv/kubefirst) channel, and on [Kubeshop YouTube channel](https://www.youtube.com/@thekubeshop) (our parent company). You'll receive the link a couple of days before the livestream: you should open it to test everything is working. You'll need to give permission access to your webcam and microphone.
+We use [StreamYard](https://streamyard.com) as our livestream platform. The platform will stream the show on kubefirst [YouTube channel](https://www.youtube.com/@kubefirst), [Twitter](https://twitter.com/kubefirst) account, [LinkedIn](https://www.linkedin.com/company/kubefirst/) page, [Twitch](https://www.twitch.tv/kubefirst) channel, and on [Kubeshop YouTube channel](https://www.youtube.com/@thekubeshop) (our parent company). You'll receive the link a couple of days before the livestream: you should open it to test everything is working. You'll need to give permission access to your webcam and microphone.
 
 All [you need](https://support.streamyard.com/hc/en-us/articles/360043291612-Guest-instructions) is a modern browser, with a proper internet connection, a microphone, webcam, and headphones. We highly suggest you use headphones/earphones so there's no echo happening due to the microphone picking audio from the livestream.
 
@@ -66,11 +66,11 @@ All [you need](https://support.streamyard.com/hc/en-us/articles/360043291612-Gue
 
 _Click on the image for [a small video](https://youtu.be/H6YXleBZVRU) showing how to configure StreamYard_
 
-When asked to enter your name: you can either add your full name or just your first one, whatever floats your boat. We only ask that if you are using Twitter, to add ` | @username` after your name. Lastly, be sure that in `Settings` > `Camera`, the `Camera resolution` combobox has `Full High Definition (1080p)` selected, for best video quality.
+When asked to enter your name: you can either add your full name or just your first one, whatever floats your boat. We only ask that if you are using Twitter, to add `ㅤ| @username` after your name. Lastly, be sure that in `Settings` > `Camera`, the `Camera resolution` combobox has `Full High Definition (1080p)` selected, for best video quality.
 
 ### Promotion
 
-A couple of days before the stream, we will share on our [Twitter account](https://twitter.com/kubefirst), [LinkedIn page](https://www.linkedin.com/company/kubefirst/), [Slack community](https://kubefirst.io/slack), and in other related communities. We will tag your company. To help us spread the words, a retweet and reshare with your company's social media or even your personal ones are more than welcome.
+A couple of days before the stream, we will share on our [Twitter account](https://twitter.com/kubefirst), [LinkedIn page](https://www.linkedin.com/company/kubefirst/), [Slack community](https://kubefirst.io/slack), and in other related communities. We will tag your company. To help us spread the words, a retweet and repost with your company's social media or even your personal ones are more than welcome.
 
 ### During the Show
 
@@ -90,23 +90,37 @@ Lastly, we try to keep things fun, and one way to do that is by using some audio
 
 The previous items were specific to your participation to our livestream. We also want to share with you generic tips which could help you, and the audience to have a better experience when you are participating to any livestream, including ours.
 
+### Prepare your computer
+
 - Reboot your machine: it ensures things will run smoothly.
 - Close all unneeded applications: it frees up some memory, and CPU, which will be needed for the video, and may make any demos faster.
 - If you will use the browser for showing or demo something, close all unneeded the tabs: it ensures the viewers are focusing on the right thing, and free up resources.
 - Zoom your browser tabs as when the page is text heavy, it may not show well (i.e.: viewing a GitHub repository content in the browser).
 - Zoom the font in your IDE, terminal, and anything text-based so it shows well on any viewers' screen.
-- As mentioned in the [Platform section](#platform), use earphones or headphones to prevent audio feedback. To check the audio quality of your microphone, use this [free tool from Adobe](https://podcast.adobe.com/miccheck).
-- Ensure the lightning is good which may mean to close the blinds so there's no sun reflections on the webcam, open your ceiling lights even if it's daytime or anything else that can help you see your face properly.
 - Activate the Do Not Disturb / Focus mode so there's no notification popups while you share your screen, nor any sound from notifications. There are tools that do this automatically for you, like the free [Muzzle application](https://muzzleapp.com) for macOS.
 - Do the same with your phone, or at a minimum, put it on vibration. If you do the latter, don't leave it on the desk to prevent vibrations noises.
+
+### Prepare your environment
+
+- As mentioned in the [Platform section](#platform), use earphones or headphones to prevent audio feedback. To check the audio quality of your microphone, use this [free tool from Adobe](https://podcast.adobe.com/miccheck).
+- Ensure the lightning is good which may mean to close the blinds so there's no sun reflections on the webcam, open your ceiling lights even if it's daytime or anything else that can help you see your face properly.
 - If you are not living alone or are at the office, find a room where you can be alone, and close the door if possible. It will also be better for them. With that said, if your kids or animals want to be on the show, we're good with that!
+
+### Prepare your demonstration
+
 - If your demo is complicated, require multiple steps, is too long, or if you think something could go wrong, for whatever reasons, prepare a final version with the end result as a safeguard. An example, when we want to show how to create an AWS cluster with kubefirst, we will show how to get started, but because the full process is about 25 minutes (multiple resources are needed on AWS to create a production-ready Kubernetes cluster), we will have another cluster already created.
 - If you are using macOS Sonoma or later version, you should [deactivate the reactions feature](https://support.apple.com/en-ca/105117#reactions).
 
+### During the show
+
+- If you have multiple monitors, ensure that the one you use to do your demonstration and the one you use for the StreamYard interface is the one where the webcam is, so you look like you talk to us, and the audience, and not someone else.
+- If there are noises you can't control, mute yourself when you're not speaking. Same goes if you type on your keyboard when you are not doing a demonstration at the moment.
+- When you share your screen, StreamYard (or your browser) will show a window overlay at the bottom of your screen written something along the lines of "streamyard.com is sharing your screen". If you have multiple monitors, move it to the monitor you aren't sharing in the stream. You also have the option to hide it: if you do, you can stop sharing within the StreamYard interface or Fred can do it for you.
+
 ## Anything else?
 
-If at any moments you need help with your slides, wants some feedback, have questions about kubefirst or the livestream itself, contact [Fred](mailtohttps://fred.dev@kubeshop.io).
+If at any moments you need help with your slides, wants some feedback, have questions about kubefirst or the livestream itself, contact [Fred](mailto:fred@kubeefirst.io).
 
 Looking forward to discussing your technology, and dropping some knowledge bomb to our audience with you.
 
- — The Kubefirst team
+ — The kubefirst team
