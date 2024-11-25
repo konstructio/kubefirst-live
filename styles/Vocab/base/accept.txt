@@ -9,6 +9,7 @@ automation
 # C
 CLI'
 ClusterIssuer
+Codezero
 combobox
 containerd
 CPU
@@ -17,6 +18,7 @@ CWFT
 # D
 Datadog
 deprovision
+Dietz
 Dockerfile
 Docusaurus
 Dum
@@ -24,6 +26,8 @@ Dum
 # E
 
 # F
+Fairwinds
+Fermyon
 
 # G
 
@@ -38,21 +42,24 @@ interoperate
 # K
 kbot
 KMS
+Konstruct
+Kratix
 kubectl
-Kubeshop
+Kyverno
 
 # L
 livestream
 
 # M
 markdownlint
+Masterpoint
 mkcert
 multinode
 
 # N
 namespace
 nerdctl
-Noooooo
+Nirmata
 npm
 ngrok
 Nginx
@@ -73,6 +80,7 @@ routable
 Sonoma
 statestore
 subnet
+Syntasso
 
 # T
 teardown

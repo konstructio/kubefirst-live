@@ -43,7 +43,7 @@ swap:
   helm: Helm
   https: HTTPS
   iam: IAM
-  Kubefirst: kubefirst
+  kubefirst: Kubefirst
   kubernetes: Kubernetes
   mongo: MongoDB
   oidc: OIDC
