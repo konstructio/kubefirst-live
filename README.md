@@ -2,7 +2,7 @@
 
 ![Kubefirst Logo](img/kubefirst-light.svg#gh-dark-mode-only)![Kubefirst Logo](img/kubefirst-dark.svg#gh-light-mode-only)
 
-We have a [biweekly livestream](https://www.youtube.com/@konstructio) named Kubefirst Live, where we are discussing not only Kubefirst but anything cloud native. We nearly 40+ shows since we started, we had the pleasure to have guests from Civo, Codezero, Datadog, DigitalOcean, Fairwinds (Goldilocks & Polaris), Fermyon Technologies (SpinKube), GitGuardian, KubeCost (OpenCost), Masterpoint, Nirmata (Kyverno), StormForge, Syntasso (Kratix) and a lot more amazing companies.
+We have a [biweekly livestream](https://www.youtube.com/@konstructio) named Kubefirst Live, where we are discussing not only Kubefirst but anything cloud native. We have more than 40 shows done since we started, and had the pleasure to welcome guests from Civo, Codezero, Datadog, DigitalOcean, Fairwinds (Goldilocks & Polaris), Fermyon Technologies (SpinKube), GitGuardian, KubeCost (OpenCost), Masterpoint, Nirmata (Kyverno), StormForge, Syntasso (Kratix) and a lot more amazing companies.
 
 Here are some guidelines for our guests.
 
